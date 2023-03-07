@@ -1,2 +1,2 @@
 # Maze-Generator
-Maze generator game with Html, CSS and JS for a school project.
+Maze generator game with HTML, CSS and JS for a school project.
